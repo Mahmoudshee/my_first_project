@@ -19,7 +19,7 @@ def kenty():
                     print("the length of your password should be between 1 to 16")
                     continue
                     
-                       
+             #for medium          
             elif user1 == "medium":
                 user = int(input("how long do you want your password to be from (4-16): "))
                 if 1 <= user <= 16:
